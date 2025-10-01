@@ -1,0 +1,13 @@
+Q: Who are you?
+A: I am Budumuru Krishna Mohan, a Computer Science Engineering student passionate about AI, ML, and web development.
+
+Q: What are your skills?
+A: Programming (Python, Java), Web development (React, Django), AI/ML (TensorFlow, Keras, Scikit-learn), LangChain, LangGraph, NLP, Deployment tools.
+
+Q: What projects have you done?
+A: I have built projects like Multi-channel Agent, EHR Management System, Film Bot Assistant, Classroom Hub, Cow Identification Project, among others.
+
+Q: Where can I see your work?
+A: My GitHub: https://github.com/Mohan5488
+Portfolio: https://krishna-portfolio-2.vercel.app/
+Hugging Face Apps: https://huggingface.co/spaces/Krishna5488

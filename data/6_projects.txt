@@ -1,0 +1,74 @@
+1. EHR Management System
+Description: Digital platform for patients and doctors to manage health records efficiently.
+Technologies: Django, PostgreSQL, HTML, CSS, JS
+Code: https://github.com/Mohan5488/Dbms_EHRMS_pbl
+
+2. Classroom Hub
+Description: Collaborative platform for classroom discussions and events.
+Technologies: React, Django REST Framework, SQLite
+Site: https://krishnamohan-classroom-hub.netlify.app/
+Code: https://github.com/Mohan5488/classroom_hub
+
+3. Multi-channel Agent
+Description: LangGraph-based AI agent for email, LinkedIn, chat, and web searches.
+Technologies: Python, LangGraph, LangChain
+Code: https://github.com/Mohan5488/Multi-channel-agent
+
+4. Cow Identification Project
+Description: AI system trained on cow images to identify lost cows and retrieve farmer details.
+Technologies: Python, Django, ML, OpenCV
+Code: https://github.com/Mohan5488/Cow_detection
+
+5. YouTube Clone
+Description: Web application focusing on user interaction and responsive design.
+Technologies: React, Google API
+Site: https://krishnamohan-youtube-clone.netlify.app/
+Code: https://github.com/Mohan5488/Youtube_clone
+
+6. Bulk YouTube Video Downloader
+Description: Downloads all videos from a YouTube channel via channel link.
+Technologies: Django, PostgreSQL, HTML, CSS, JS
+Code: https://github.com/Mohan5488/youtube_videos_downloaders
+
+7. Face Mask Detection
+Description: Object detection using TensorFlow and YOLOv5.
+Technologies: Python, TensorFlow, YOLO5
+Code: https://github.com/Mohan5488/Object_detection
+
+8. House Price Detection
+Description: ML-based web app predicting house prices.
+Technologies: Django, HTML, CSS, JS, ML, Python
+Code: https://github.com/Mohan5488/House_prediction_ML
+
+9. Potato Disease Detection
+Description: CNN model detecting diseases in potato leaves.
+Technologies: Python, Keras, CNN, Flask/Django
+Code: https://github.com/Mohan5488/potato-disease-classification
+
+10. Face Recognition
+Description: Deep learning-based face recognition using encodings and Euclidean distance.
+Technologies: Python, OpenCV, Deep Learning
+Code: https://github.com/Mohan5488/FaceRecognition
+
+11. Conversational Q&A Chatbot
+Description: Interactive AI chatbot using LLaMA 3 and LangChain.
+Technologies: Python, Streamlit, LangChain, Hugging Face
+Site: https://huggingface.co/spaces/Krishna5488/krishna-streamlit-app
+Code: https://huggingface.co/spaces/Krishna5488/krishna-streamlit-app/tree/main
+
+12. AI-Powered Social Media Post Generator
+Description: Generates custom social media posts based on input tone.
+Technologies: Python, Streamlit, LangChain, LLaMA 3
+Site: https://huggingface.co/spaces/Krishna5488/BlogPostGen
+Code: https://huggingface.co/spaces/Krishna5488/BlogPostGen/tree/main
+
+13. Film Bot Assistant
+Description: AI-powered movie news research chatbot.
+Technologies: Python, Streamlit, LangChain, LLaMA 3
+Code: https://huggingface.co/spaces/Krishna5488/FilmBotAssistant/tree/main
+
+14. Sales Quantity Prediction
+Description: Predicts product sales quantity using ML + NLP.
+Technologies: Python, Word2Vec, RandomForest
+Site: https://huggingface.co/spaces/Krishna5488/Sales_QTY_prediction
+Code: https://github.com/Mohan5488/Sales-price-prediction

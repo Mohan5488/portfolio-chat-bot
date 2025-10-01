@@ -1,0 +1,37 @@
+Programming Languages:
+- Python
+- Java
+
+Frontend:
+- React JS
+- HTML
+- CSS
+- JavaScript
+- Material UI
+- Streamlit
+
+Backend:
+- Django
+- Django Rest Framework
+
+Databases:
+- MySQL
+- PostgreSQL
+- SQLite
+
+AI / ML / GenAI:
+- TensorFlow
+- Keras
+- Scikit-learn
+- CNN, Transfer Learning (VGG16, ResNet)
+- NLP: Spacy, Gensim, Text Preprocessing, Sentiment Analysis, Text Classification
+- LangChain: linear AI workflows, RAG pipelines
+- LangGraph: Stateful workflows, ReAct, Human-in-the-loop, Memory persistence
+
+Tools & Deployment:
+- Google Colab
+- Streamlit
+- Django
+- GitHub
+- VS Code
+- Postman

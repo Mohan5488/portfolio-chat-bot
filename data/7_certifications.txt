@@ -1,0 +1,4 @@
+- Python (Basic): https://www.hackerrank.com/certificates/3f2f8a76a881
+- Java (Basic): https://www.hackerrank.com/certificates/64293dc6ae73
+- SQL (Intermediate): https://www.hackerrank.com/certificates/c6b49b9d3bd9
+- JavaScript: https://www.netacad.com/certificates?issuanceId=826deff3-8d21-4395-82d8-5e38e1e5aea8

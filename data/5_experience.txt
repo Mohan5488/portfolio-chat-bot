@@ -1,0 +1,11 @@
+Sweya AI, Visakhapatnam, India
+
+1. Machine Learning Intern (May 2025 – Jul 2025)
+- Hands-on experience with Agentic AI, Generative AI, and tool-using agents.
+- Worked on LangChain and LangGraph frameworks for stateful workflows.
+- Contributed to a computer vision project for accident prevention.
+
+2. Machine Learning Part-time (Jul 2024 – Present)
+- Worked on ML workflows and NLP + structured data projects.
+- Improved model evaluation, error reduction, and continuous improvement.
+- Supported the team part-time while applying internship learnings.
