@@ -1,20 +1,21 @@
 import os
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
-
+os.environ["KMP_DUPLICATE_LIB_OK"] = "TRUE"
 from langchain.chains import ConversationalRetrievalChain
 from langchain_community.vectorstores import FAISS
 from langchain.memory import ConversationBufferMemory
 from langchain_groq import ChatGroq
-from langchain_huggingface import HuggingFaceEmbeddings
 from dotenv import load_dotenv
-
+from langchain_community.embeddings import OpenAIEmbeddings
 load_dotenv()
+
+embedding = OpenAIEmbeddings()
+
 
 llm = ChatGroq(model="openai/gpt-oss-120b")
 
-embedding = HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
 vector_store = FAISS.load_local(
-    "vectorstore",
+    "vectorstore-openai",
     embedding,
     allow_dangerous_deserialization=True
 )
