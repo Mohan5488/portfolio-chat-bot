@@ -9,8 +9,8 @@ app = FastAPI()
 origins = [
     "http://localhost:5173",  # React dev server
     "http://127.0.0.1:5173",
-    "https://krishna-portfolio-2.vercel.app/",
-    "https://krishnamohan-portfolio2.netlify.app/",
+    "https://krishna-portfolio-2.vercel.app",
+    "https://krishnamohan-portfolio2.netlify.app",
     "https://portfolio-krishna-6rb7dzifs-krishna-mohans-projects-495eaee4.vercel.app"
 ]
 
